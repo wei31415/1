@@ -1,0 +1,13 @@
+{
+ "pid": 3745,
+ "region_idx": 11,
+ "region_start": "125270109515776",
+ "region_size": "46661632",
+ "camera_matrix_off": 3784320,
+ "player_node_mo": 7419040,
+ "camera_node_id": 51297,
+ "camera_node_mo": 3784160,
+ "player_node_id": 23464,
+ "yaw_at_locate": -60.3,
+ "ts": "2026-10-30T07:11:26.320Z"
+}

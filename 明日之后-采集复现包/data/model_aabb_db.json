@@ -1,0 +1,999 @@
+{
+ "note": "NeoX .mesh local AABB read from decompressed header offset 0x22 (max.xyz then min.xyz, float32). Units are the engine's; world AABB = this rotated by yaw then scaled per instance.",
+ "headerOffset": "0x22",
+ "scannedFiles": 686,
+ "meshFiles": 59,
+ "distinctSizes": 45,
+ "models": [
+  {
+   "file": "37DC84DE9772FBA0",
+   "pack": "__Unknown_file",
+   "size": [
+    224.891,
+    98.635,
+    143.978
+   ],
+   "min": [
+    -112.446,
+    6.583,
+    -59.77
+   ],
+   "max": [
+    112.446,
+    105.218,
+    84.208
+   ],
+   "diagonal": 267.031,
+   "decompressedBytes": 54698,
+   "seen": 1
+  },
+  {
+   "file": "AD37EE7B8DEDB806",
+   "pack": "__Unknown_file",
+   "size": [
+    224.891,
+    98.635,
+    144.292
+   ],
+   "min": [
+    -112.446,
+    6.583,
+    -59.77
+   ],
+   "max": [
+    112.446,
+    105.218,
+    84.522
+   ],
+   "diagonal": 267.201,
+   "decompressedBytes": 100803,
+   "seen": 1
+  },
+  {
+   "file": "5B4D292D0B7EEA73",
+   "pack": "__Unknown_file",
+   "size": [
+    9.776,
+    73.988,
+    70.76
+   ],
+   "min": [
+    -4.889,
+    -0.235,
+    -35.386
+   ],
+   "max": [
+    4.887,
+    73.753,
+    35.375
+   ],
+   "diagonal": 71.433,
+   "decompressedBytes": 3585,
+   "seen": 1
+  },
+  {
+   "file": "00A7D90A970E8BF9",
+   "pack": "__Unknown_file",
+   "size": [
+    81.439,
+    62.809,
+    22.41
+   ],
+   "min": [
+    -41.788,
+    -11.174,
+    -1.014
+   ],
+   "max": [
+    39.65,
+    51.635,
+    21.395
+   ],
+   "diagonal": 84.466,
+   "decompressedBytes": 10977,
+   "seen": 1
+  },
+  {
+   "file": "8C3A567F1A9773F2",
+   "pack": "__Unknown_file",
+   "size": [
+    107.042,
+    49.698,
+    93.839
+   ],
+   "min": [
+    -53.521,
+    0.005,
+    -46.919
+   ],
+   "max": [
+    53.521,
+    49.703,
+    46.919
+   ],
+   "diagonal": 142.35,
+   "decompressedBytes": 13496,
+   "seen": 1
+  },
+  {
+   "file": "4C896726B5A8270A",
+   "pack": "__Unknown_file",
+   "size": [
+    102.232,
+    34.043,
+    8.884
+   ],
+   "min": [
+    -51.116,
+    2.893,
+    -14.357
+   ],
+   "max": [
+    51.116,
+    36.936,
+    -5.473
+   ],
+   "diagonal": 102.617,
+   "decompressedBytes": 20381,
+   "seen": 1
+  },
+  {
+   "file": "9303784F78E26556",
+   "pack": "__Unknown_file",
+   "size": [
+    102.232,
+    34.024,
+    8.884
+   ],
+   "min": [
+    -51.116,
+    2.893,
+    -14.357
+   ],
+   "max": [
+    51.116,
+    36.917,
+    -5.473
+   ],
+   "diagonal": 102.617,
+   "decompressedBytes": 10660,
+   "seen": 1
+  },
+  {
+   "file": "6869B0D1D148B57A",
+   "pack": "__Unknown_file",
+   "size": [
+    35.387,
+    30.32,
+    2.673
+   ],
+   "min": [
+    -17.693,
+    0,
+    -1.337
+   ],
+   "max": [
+    17.693,
+    30.32,
+    1.337
+   ],
+   "diagonal": 35.488,
+   "decompressedBytes": 2100,
+   "seen": 2
+  },
+  {
+   "file": "cjw_rock01.mesh",
+   "pack": "caijiwu_models_new",
+   "size": [
+    32.975,
+    24.838,
+    32.517
+   ],
+   "min": [
+    -16.483,
+    -0.23,
+    -16.265
+   ],
+   "max": [
+    16.492,
+    24.608,
+    16.252
+   ],
+   "diagonal": 46.311,
+   "decompressedBytes": 13741,
+   "seen": 1
+  },
+  {
+   "file": "EFCBBA24A6BA4ACE",
+   "pack": "__Unknown_file",
+   "size": [
+    28.099,
+    22.359,
+    24.257
+   ],
+   "min": [
+    -14.477,
+    -1.368,
+    -12.153
+   ],
+   "max": [
+    13.622,
+    20.99,
+    12.104
+   ],
+   "diagonal": 37.121,
+   "decompressedBytes": 5930,
+   "seen": 1
+  },
+  {
+   "file": "5D9CFFA3BF4FC294",
+   "pack": "__Unknown_file",
+   "size": [
+    15.648,
+    18.475,
+    3.464
+   ],
+   "min": [
+    -7.824,
+    0,
+    -1.732
+   ],
+   "max": [
+    7.824,
+    18.475,
+    1.732
+   ],
+   "diagonal": 16.027,
+   "decompressedBytes": 3733,
+   "seen": 2
+  },
+  {
+   "file": "4E456298B255419B",
+   "pack": "__Unknown_file",
+   "size": [
+    37.091,
+    17.939,
+    27.271
+   ],
+   "min": [
+    -18.478,
+    -1.965,
+    -13.623
+   ],
+   "max": [
+    18.613,
+    15.974,
+    13.648
+   ],
+   "diagonal": 46.037,
+   "decompressedBytes": 77944,
+   "seen": 1
+  },
+  {
+   "file": "06047322F821E6CC",
+   "pack": "__Unknown_file",
+   "size": [
+    15.177,
+    17.902,
+    5.155
+   ],
+   "min": [
+    -7.588,
+    0,
+    -2.318
+   ],
+   "max": [
+    7.589,
+    17.902,
+    2.837
+   ],
+   "diagonal": 16.028,
+   "decompressedBytes": 5452,
+   "seen": 1
+  },
+  {
+   "file": "C60B3048BD7AE923",
+   "pack": "__Unknown_file",
+   "size": [
+    15.116,
+    17.902,
+    5.136
+   ],
+   "min": [
+    -7.558,
+    0,
+    -2.299
+   ],
+   "max": [
+    7.558,
+    17.902,
+    2.837
+   ],
+   "diagonal": 15.964,
+   "decompressedBytes": 2584,
+   "seen": 1
+  },
+  {
+   "file": "DD202EBF2F7A37AF",
+   "pack": "__Unknown_file",
+   "size": [
+    15.116,
+    17.902,
+    5.133
+   ],
+   "min": [
+    -7.558,
+    0,
+    -2.296
+   ],
+   "max": [
+    7.558,
+    17.902,
+    2.837
+   ],
+   "diagonal": 15.963,
+   "decompressedBytes": 5757,
+   "seen": 1
+  },
+  {
+   "file": "0C3BE6A9D2FC3BDC",
+   "pack": "__Unknown_file",
+   "size": [
+    36.125,
+    17.699,
+    27.011
+   ],
+   "min": [
+    -18.063,
+    -1.724,
+    -13.505
+   ],
+   "max": [
+    18.063,
+    15.975,
+    13.505
+   ],
+   "diagonal": 45.107,
+   "decompressedBytes": 57897,
+   "seen": 2
+  },
+  {
+   "file": "062D5689B838FBF9",
+   "pack": "__Unknown_file",
+   "size": [
+    46.215,
+    17.469,
+    49.443
+   ],
+   "min": [
+    -22.887,
+    -3.741,
+    -25.68
+   ],
+   "max": [
+    23.329,
+    13.727,
+    23.763
+   ],
+   "diagonal": 67.679,
+   "decompressedBytes": 279917,
+   "seen": 5
+  },
+  {
+   "file": "113DF8F0BD49E291",
+   "pack": "__Unknown_file",
+   "size": [
+    15.772,
+    17.382,
+    2.55
+   ],
+   "min": [
+    -7.886,
+    0.002,
+    -1.647
+   ],
+   "max": [
+    7.886,
+    17.384,
+    0.903
+   ],
+   "diagonal": 15.977,
+   "decompressedBytes": 352,
+   "seen": 1
+  },
+  {
+   "file": "6C31C12B627E4E5D",
+   "pack": "__Unknown_file",
+   "size": [
+    15.772,
+    17.382,
+    3.295
+   ],
+   "min": [
+    -7.886,
+    0.002,
+    -1.647
+   ],
+   "max": [
+    7.886,
+    17.384,
+    1.647
+   ],
+   "diagonal": 16.112,
+   "decompressedBytes": 628,
+   "seen": 2
+  },
+  {
+   "file": "CBF9E4CD0321F821",
+   "pack": "__Unknown_file",
+   "size": [
+    50.352,
+    17.07,
+    69.307
+   ],
+   "min": [
+    -25.176,
+    0.186,
+    -34.654
+   ],
+   "max": [
+    25.176,
+    17.256,
+    34.654
+   ],
+   "diagonal": 85.667,
+   "decompressedBytes": 6886,
+   "seen": 1
+  },
+  {
+   "file": "361DB6D7C3308230",
+   "pack": "__Unknown_file",
+   "size": [
+    23.514,
+    16.391,
+    3.222
+   ],
+   "min": [
+    -11.656,
+    -0.063,
+    -1.527
+   ],
+   "max": [
+    11.857,
+    16.329,
+    1.695
+   ],
+   "diagonal": 23.733,
+   "decompressedBytes": 5260,
+   "seen": 2
+  },
+  {
+   "file": "30D5B53C76B3AC62",
+   "pack": "__Unknown_file",
+   "size": [
+    23.514,
+    16.215,
+    3.222
+   ],
+   "min": [
+    -11.656,
+    0,
+    -1.527
+   ],
+   "max": [
+    11.857,
+    16.215,
+    1.695
+   ],
+   "diagonal": 23.733,
+   "decompressedBytes": 4516,
+   "seen": 1
+  },
+  {
+   "file": "E540A85527F26A1B",
+   "pack": "__Unknown_file",
+   "size": [
+    23.466,
+    16.215,
+    3.127
+   ],
+   "min": [
+    -11.609,
+    0,
+    -1.432
+   ],
+   "max": [
+    11.857,
+    16.215,
+    1.695
+   ],
+   "diagonal": 23.674,
+   "decompressedBytes": 1600,
+   "seen": 1
+  },
+  {
+   "file": "00CB1B266C3C7F5A",
+   "pack": "__Unknown_file",
+   "size": [
+    21.768,
+    15.933,
+    22.3
+   ],
+   "min": [
+    -11.827,
+    -0.746,
+    -11.185
+   ],
+   "max": [
+    9.941,
+    15.187,
+    11.115
+   ],
+   "diagonal": 31.163,
+   "decompressedBytes": 16894,
+   "seen": 1
+  },
+  {
+   "file": "0EABC7DC8424DCCB",
+   "pack": "__Unknown_file",
+   "size": [
+    11.826,
+    15.267,
+    1.082
+   ],
+   "min": [
+    -5.913,
+    0,
+    -0.541
+   ],
+   "max": [
+    5.913,
+    15.267,
+    0.541
+   ],
+   "diagonal": 11.875,
+   "decompressedBytes": 2005,
+   "seen": 2
+  },
+  {
+   "file": "0625A04D5C387ECE",
+   "pack": "__Unknown_file",
+   "size": [
+    22.81,
+    15.102,
+    19.472
+   ],
+   "min": [
+    -11.551,
+    -0.415,
+    -9.325
+   ],
+   "max": [
+    11.259,
+    14.687,
+    10.147
+   ],
+   "diagonal": 29.991,
+   "decompressedBytes": 10648,
+   "seen": 1
+  },
+  {
+   "file": "022F9C9B7FA59A93",
+   "pack": "__Unknown_file",
+   "size": [
+    14.184,
+    11.669,
+    13.801
+   ],
+   "min": [
+    -6.407,
+    -0.254,
+    -6.919
+   ],
+   "max": [
+    7.777,
+    11.415,
+    6.882
+   ],
+   "diagonal": 19.791,
+   "decompressedBytes": 49178,
+   "seen": 1
+  },
+  {
+   "file": "pg30_grass02a.mesh",
+   "pack": "grass",
+   "size": [
+    12.858,
+    9.99,
+    12.789
+   ],
+   "min": [
+    -6.408,
+    -0.777,
+    -6.37
+   ],
+   "max": [
+    6.451,
+    9.213,
+    6.419
+   ],
+   "diagonal": 18.135,
+   "decompressedBytes": 260,
+   "seen": 1
+  },
+  {
+   "file": "188061F6A2C942D0",
+   "pack": "__Unknown_file",
+   "size": [
+    17.131,
+    9.497,
+    13.719
+   ],
+   "min": [
+    -8.602,
+    -0.396,
+    -6.647
+   ],
+   "max": [
+    8.529,
+    9.101,
+    7.072
+   ],
+   "diagonal": 21.948,
+   "decompressedBytes": 2692,
+   "seen": 1
+  },
+  {
+   "file": "94D2EA3679623E59",
+   "pack": "__Unknown_file",
+   "size": [
+    17.097,
+    9.412,
+    14.033
+   ],
+   "min": [
+    -8.549,
+    -0.419,
+    -7.017
+   ],
+   "max": [
+    8.549,
+    8.992,
+    7.017
+   ],
+   "diagonal": 22.119,
+   "decompressedBytes": 10421,
+   "seen": 1
+  },
+  {
+   "file": "587B2F36FB949EE9",
+   "pack": "__Unknown_file",
+   "size": [
+    4.609,
+    9.401,
+    4.891
+   ],
+   "min": [
+    -1.258,
+    -0.55,
+    -1.607
+   ],
+   "max": [
+    3.351,
+    8.852,
+    3.285
+   ],
+   "diagonal": 6.721,
+   "decompressedBytes": 228,
+   "seen": 2
+  },
+  {
+   "file": "24D5D84F70AAF0A1",
+   "pack": "__Unknown_file",
+   "size": [
+    16.653,
+    9.265,
+    13.505
+   ],
+   "min": [
+    -8.386,
+    -0.273,
+    -6.571
+   ],
+   "max": [
+    8.267,
+    8.992,
+    6.933
+   ],
+   "diagonal": 21.44,
+   "decompressedBytes": 4156,
+   "seen": 1
+  },
+  {
+   "file": "EAFE9EFBA5D861FA",
+   "pack": "__Unknown_file",
+   "size": [
+    16.575,
+    8.916,
+    13.505
+   ],
+   "min": [
+    -8.386,
+    -0.128,
+    -6.571
+   ],
+   "max": [
+    8.19,
+    8.788,
+    6.933
+   ],
+   "diagonal": 21.38,
+   "decompressedBytes": 2724,
+   "seen": 1
+  },
+  {
+   "file": "262AB270D7E7CD44",
+   "pack": "__Unknown_file",
+   "size": [
+    5.625,
+    8.666,
+    4.486
+   ],
+   "min": [
+    -2.812,
+    0,
+    -2.243
+   ],
+   "max": [
+    2.812,
+    8.666,
+    2.243
+   ],
+   "diagonal": 7.195,
+   "decompressedBytes": 2949,
+   "seen": 2
+  },
+  {
+   "file": "6C699F4747CC830D",
+   "pack": "__Unknown_file",
+   "size": [
+    8.427,
+    8.006,
+    80
+   ],
+   "min": [
+    -4.214,
+    -8.006,
+    -40
+   ],
+   "max": [
+    4.213,
+    0,
+    40
+   ],
+   "diagonal": 80.443,
+   "decompressedBytes": 628,
+   "seen": 3
+  },
+  {
+   "file": "D258D0AE89959DD0",
+   "pack": "__Unknown_file",
+   "size": [
+    14.885,
+    7.648,
+    10.914
+   ],
+   "min": [
+    -7.442,
+    -1.761,
+    -5.457
+   ],
+   "max": [
+    7.442,
+    5.887,
+    5.457
+   ],
+   "diagonal": 18.457,
+   "decompressedBytes": 1516,
+   "seen": 1
+  },
+  {
+   "file": "1D2B4CFA61F9A9E1",
+   "pack": "__Unknown_file",
+   "size": [
+    5.891,
+    5.891,
+    5.891
+   ],
+   "min": [
+    -2.945,
+    -0.004,
+    -2.945
+   ],
+   "max": [
+    2.945,
+    5.887,
+    2.945
+   ],
+   "diagonal": 8.331,
+   "decompressedBytes": 853,
+   "seen": 1
+  },
+  {
+   "file": "324781005DBA5E17",
+   "pack": "__Unknown_file",
+   "size": [
+    9.203,
+    5.776,
+    8.931
+   ],
+   "min": [
+    -4.582,
+    -0.068,
+    -4.542
+   ],
+   "max": [
+    4.621,
+    5.708,
+    4.389
+   ],
+   "diagonal": 12.825,
+   "decompressedBytes": 228,
+   "seen": 1
+  },
+  {
+   "file": "505F00A8EB25DC85",
+   "pack": "__Unknown_file",
+   "size": [
+    67.336,
+    5.279,
+    56.124
+   ],
+   "min": [
+    -33.928,
+    -0.128,
+    -28.31
+   ],
+   "max": [
+    33.407,
+    5.151,
+    27.814
+   ],
+   "diagonal": 87.659,
+   "decompressedBytes": 2377,
+   "seen": 1
+  },
+  {
+   "file": "740D386DC7CDDF60",
+   "pack": "__Unknown_file",
+   "size": [
+    67.336,
+    5.186,
+    56.124
+   ],
+   "min": [
+    -33.928,
+    -0.128,
+    -28.31
+   ],
+   "max": [
+    33.407,
+    5.058,
+    27.814
+   ],
+   "diagonal": 87.659,
+   "decompressedBytes": 1144,
+   "seen": 1
+  },
+  {
+   "file": "bg20_grass01.mesh",
+   "pack": "foliage",
+   "size": [
+    6.808,
+    5.142,
+    7.247
+   ],
+   "min": [
+    -3.404,
+    -0.067,
+    -3.555
+   ],
+   "max": [
+    3.404,
+    5.075,
+    3.692
+   ],
+   "diagonal": 9.943,
+   "decompressedBytes": 304,
+   "seen": 1
+  },
+  {
+   "file": "85AF671BA35144FD",
+   "pack": "__Unknown_file",
+   "size": [
+    67.336,
+    4.696,
+    56.124
+   ],
+   "min": [
+    -33.928,
+    -0.128,
+    -28.31
+   ],
+   "max": [
+    33.407,
+    4.568,
+    27.814
+   ],
+   "diagonal": 87.659,
+   "decompressedBytes": 632,
+   "seen": 1
+  },
+  {
+   "file": "F594604D110EDCFE",
+   "pack": "__Unknown_file",
+   "size": [
+    71.687,
+    0.419,
+    20.676
+   ],
+   "min": [
+    -35.847,
+    0.042,
+    -10.338
+   ],
+   "max": [
+    35.84,
+    0.461,
+    10.338
+   ],
+   "diagonal": 74.61,
+   "decompressedBytes": 2812,
+   "seen": 1
+  },
+  {
+   "file": "8E6CA92E0D58A546",
+   "pack": "__Unknown_file",
+   "size": [
+    71.53,
+    0.412,
+    24.382
+   ],
+   "min": [
+    -35.837,
+    0.048,
+    -12.084
+   ],
+   "max": [
+    35.694,
+    0.46,
+    12.297
+   ],
+   "diagonal": 75.571,
+   "decompressedBytes": 5308,
+   "seen": 1
+  },
+  {
+   "file": "22C2F61533978386",
+   "pack": "__Unknown_file",
+   "size": [
+    71.479,
+    0.405,
+    24.401
+   ],
+   "min": [
+    -35.785,
+    0.051,
+    -12.234
+   ],
+   "max": [
+    35.694,
+    0.456,
+    12.168
+   ],
+   "diagonal": 75.529,
+   "decompressedBytes": 5980,
+   "seen": 1
+  }
+ ]
+}

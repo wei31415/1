@@ -1,0 +1,25 @@
+{
+ "pid": 7368,
+ "region_idx": 10,
+ "region_start": "134780275081216",
+ "region_size": "46137344",
+ "camera_matrix_off": 26312224,
+ "player_node_mo": null,
+ "camera_node_id": null,
+ "camera_node_mo": null,
+ "player_node_id": null,
+ "player_pos": [
+  1244.033,
+  316.933,
+  -4973.619
+ ],
+ "yaw_at_locate": -97.14,
+ "pitch_at_locate": 5.18,
+ "walk_delta": [
+  -47.509,
+  -5.038,
+  -5.985
+ ],
+ "ts": "2026-10-30T15:18:47.564Z",
+ "tag": "vivo"
+}
